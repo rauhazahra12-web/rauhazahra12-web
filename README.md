@@ -1,22 +1,86 @@
-# Hi, I'm Syeda Rauha Naqvi 👋
+# Hi, I'm Rauha 👋
 
-### Software Engineering Student & Video Storyteller
-I bridge the gap between technical logic and creative narrative. I specialize in **Database Management (Oracle APEX)**, **Data Structures**, and **Cinematic Production**.
+### Software Engineering Student | Full-Stack Developer | AI & Creative Technology Enthusiast
 
-- 🏆 **Project Lead @ Excelerate** (Achieved 90% Performance Rating).
-- 📊 **Data Visualization Intern** with experience in international collaboration.
-- 🎬 **Video Editor** for 50+ global and local projects.
+I'm a **Software Engineering student at COMSATS University Islamabad** with a growing focus on **full-stack development, mobile applications, artificial intelligence, and creative technology**.
 
-### 🛠 Tech Stack
-- **Languages:** C++, Java (OOP), Python, SQL.
-- **Web/DB:** Oracle APEX, HTML/CSS, WordPress.
-- **Tools:** GitHub, Google Colab, Figma, CapCut.
+I enjoy building practical software, exploring emerging AI tools, and combining technology with visual storytelling. My work spans web applications, mobile development, databases, machine learning projects, and creative media.
 
-### 📁 Current Projects
-- **Lost & Found System (Oracle APEX)** - Database & UI.
-- **MediBridge (C++/DSA)** - Advanced donor matching logic.
-- **ML RPS Simulation** - Live Python simulation on Colab.
+### 🚀 What I Work With
 
-### 🌐 Connect with me:
+**Web & Full-Stack Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-rauha-n-a9b89a2ab)
+* MERN Stack — MongoDB, Express.js, React, Node.js
+* JavaScript & TypeScript
+* HTML & CSS
+* REST APIs
+
+**Mobile Development**
+
+* Flutter
+* Dart
+
+**Programming & Software Development**
+
+* C++
+* Java
+* Python
+* SQL
+* Object-Oriented Programming
+* Data Structures & Algorithms
+
+**AI & Machine Learning**
+
+* Machine Learning
+* Computer Vision
+* AI-assisted development
+* Generative AI tools
+* Prompt Engineering
+* AI-powered applications
+
+**Databases & Tools**
+
+* MongoDB
+* Oracle APEX
+* Git & GitHub
+* Google Colab
+* Figma
+* VS Code
+* Vercel
+
+**Creative Technology**
+
+* Video Editing
+* Filmmaking
+* Motion Design
+* Blender & 3D
+* Visual Storytelling
+
+### 📌 Featured Work
+
+* **Wanderlust** — Full-stack MERN travel platform for discovering destinations, planning trips, booking services, and sharing reviews.
+* **Rauha's Creative Portfolio** — A modern portfolio showcasing video editing, filmmaking, motion design, AI, 3D, and creative work.
+* **Lost & Found Management System** — Database-driven application developed using Oracle APEX.
+* **MediBridge** — Data-structures-based organ and donor matching system.
+* **ML Projects** — Practical machine learning and computer vision experiments.
+
+### 🎯 Current Focus
+
+I'm currently expanding my skills across **full-stack web development, Flutter application development, AI engineering, and modern AI-assisted development workflows** while continuing to explore the intersection of technology and creative media.
+
+### 🌐 Portfolio
+
+🎬 **Creative Portfolio:**
+https://rauha-s-video-editing-porfolio.vercel.app/
+
+### 💼 Connect With Me
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/rauha-n-a9b89a2ab
+
+📂 **GitHub:**
+https://github.com/rauhazahra12-web
+
+---
+
+> Building with code, experimenting with AI, and telling stories through technology. ✨
